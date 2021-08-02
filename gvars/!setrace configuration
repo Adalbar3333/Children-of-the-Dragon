@@ -1,0 +1,267 @@
+[
+	{
+		"name": "Black Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Black Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "acid",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Blue Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Blue Half-Dragon",
+			"speed": "30 ft. Burrow 15 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "lightning",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},	
+	{
+		"name": "Brass Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		},{
+			"name":"Brass Half-Dragon Tongues","reset":"long","level":"1"
+		}],
+		"cvars": {
+			"race": "Brass Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "fire",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},	
+	{
+		"name": "Bronze Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Bronze Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "lightning",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},	
+	{
+		"name": "Celestial Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Celestial Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "radiant",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Copper Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Copper Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "acid",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},	
+	{
+		"name": "Gold Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Gold Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "fire",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Green Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		},{
+			"name":"Green Half-Dragon Disguise Self","reset":"long","level":1
+		}],
+		"cvars": {
+			"race": "Green Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "poision",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Red Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Red Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "fire",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Sapphire Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		},
+		"name":"Sapphire Half-Dragon Detect Thoughts","reset":"long","level":3},{"name":"Sapphire Half-Dragon Misty Step","reset":"short","level":5}],
+		"cvars": {
+			"race": "Sapphire Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "thunder",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Silver Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Silver Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "cold",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "Steel Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "Steel Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "acid",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	},
+	{
+		"name": "White Half-Dragon",
+		"counters ": [{
+			"name": "Half-Dragon Breath Weapon",
+			"reset": "short",
+			"level": 1
+		}],
+		"cvars": {
+			"race": "White Half-Dragon",
+			"speed": "30 ft.",
+			"languages": "Common, Draconic",
+			"size": "Medium",
+			"creatureType": "Humanoid",
+			"resist": "cold",
+			"immune": "",
+			"cimmune": "",
+			"vuln": "",
+			"senses": ""
+		}
+	}
+]
