@@ -1,0 +1,29 @@
+!a import name: Radiant Breath Attack
+automation:
+  - type: counter
+    meta: []
+    counter: Half-Dragon Breath Weapon
+    amount: "1"
+    allowOverflow: false
+    errorBehaviour: raise
+  - type: target
+    meta: []
+    target: all
+    effects:
+      - type: save
+        meta: []
+        stat: con
+        fail:
+          - type: damage
+            meta: []
+            damage: '{{"5d6 [radiant]" if level >= 17 else "4d6 [radiant]" if level >= 11
+              else "3d6 [radiant]" if level >= 5 else "2d6 [radiant]"}}'
+            overheal: false
+        success:
+          - type: damage
+            meta: []
+            damage: ({damage})/2
+            overheal: false
+        dc: 8 + constitutionMod + proficiencyBonus
+_v: 2
+verb: breaths
