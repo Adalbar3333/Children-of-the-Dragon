@@ -4,7 +4,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Black Half-Dragon",
@@ -25,7 +25,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Blue Half-Dragon",
@@ -46,7 +46,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}, {
 			"name": "Brass Half-Dragon Tongues",
 			"reset": "long",
@@ -72,7 +72,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Bronze Half-Dragon",
@@ -93,7 +93,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Celestial Half-Dragon",
@@ -114,7 +114,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Copper Half-Dragon",
@@ -135,7 +135,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Gold Half-Dragon",
@@ -156,12 +156,12 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}, {
 			"name": "Green Half-Dragon Disguise Self",
 			"reset": "long",
 			"level": 1,
-			"use":"!half-dragon green disguise"
+			"use":"use !half-dragon green disguise"
 		}],
 		"cvars": {
 			"race": "Green Half-Dragon",
@@ -182,7 +182,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Red Half-Dragon",
@@ -203,18 +203,18 @@
 				"name": "Half-Dragon Breath Weapon",
 				"reset": "short",
 				"level": 1,
-				"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+				"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 			}, {
 				"name": "Sapphire Half-Dragon Detect Thoughts",
 				"reset": "long",
 				"level": 3,
-				"use":"!half-dragon sapphire thoughts"
+				"use":"use !half-dragon sapphire thoughts"
 			},
 			{
 				"name": "Sapphire Half-Dragon Misty Step",
 				"reset": "short",
 				"level": 5,
-				"use":"!half-dragon sapphire misty"
+				"use":"use !half-dragon sapphire misty"
 			}
 		],
 		"cvars": {
@@ -235,7 +235,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Silver Half-Dragon",
@@ -255,7 +255,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "Steel Half-Dragon",
@@ -275,7 +275,7 @@
 			"name": "Half-Dragon Breath Weapon",
 			"reset": "short",
 			"level": 1,
-			"use":"Check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)"
+			"use":"__check the [Half-Dragon Breath Weapon github](https://github.com/Adalbar3333/Children-of-the-Dragon/tree/main/Breath%20Weapons)__"
 		}],
 		"cvars": {
 			"race": "White Half-Dragon",
